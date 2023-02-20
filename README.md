@@ -12,4 +12,4 @@ In the models folder, there are 3 folder and two files:
                                                       
                                                       -compare_dataset_KNN: in the previous folder are present the comparison between different pipelines and different classifiers on the same dataset. Here we compare the results of KNN on each of the four dataset.  
                                                       
-                                                      utils.py: it contains the most used functions with an explanation above each of them
+                                                      -utils.py: it contains the most used functions with an explanation above each of them
