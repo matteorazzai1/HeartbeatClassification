@@ -1,5 +1,9 @@
 # HeartbeatClassification
 
+projectDMML.pdf is the presentation of the project
+
+Report Classifier.pdf contains all the tests with the classifiers
+
 In the data_preprocessing folder there are two files, one with the explanation of the preprocessing phase on the four datasets merged, and the other file contains the same phases, without explanation, on the dataset MIT-BIHArrhythmiaDatabase
 
 In the models folder, there are 3 folder and two files:
